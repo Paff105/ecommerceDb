@@ -2,20 +2,20 @@
     "prodotti": [
     {
       "nome": "prodotto1",
-      "descrizione": "Descrizione del prodotto 1"
+      "descrizione": "Descrizione del prodotto 1",
         "Prezzo": 12
       
     },
     {
       "nome": "prodotto2",
-      "descrizione": "Descrizione del prodotto 2"
+      "descrizione": "Descrizione del prodotto 2",
          "Prezzo": 25
       
         
     },
     {
       "nome": "prodotto3",
-      "descrizione": "Descrizione del prodotto 3"
+      "descrizione": "Descrizione del prodotto 3",
          "Prezzo": 67
       
         
